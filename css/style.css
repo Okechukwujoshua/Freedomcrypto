@@ -1,0 +1,81 @@
+body {
+    font-family: Arial black, sans-serif;
+}
+h1,h2 {
+    font-size: 3.5rem;
+    color: #fff;
+}
+#title {
+    background-color: #ff4c68;
+}
+.container-fluid {
+    padding: 3% 15% 7%;
+}
+.navbar {
+    padding: 0 0 4.5rem;
+}
+.navbar-brand {
+    font-size: 2.5rem;
+    font-weight: lighter;
+}
+.title-image {
+    width: 60%;
+    position: absolute;
+    right: 30%;
+    transform: rotate(25deg);
+}
+.icon{
+    margin-bottom: 1rem;
+    color: #ef8172;
+}
+.icon :hover {
+    color: #ff4c68;
+}
+.features-box {
+    padding: 5%;
+    text-align: center;
+}
+#features {
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+}
+#testimonials {
+    background-color: #ff4c68;
+    text-align: center;
+    color: #fff;
+    padding-top: 50px;
+}
+.testimonial-image {
+    border-radius: 100%;
+    width: 10%;
+    margin: 20px;
+}
+#press{
+        background-color: #ff4c68;
+        text-align: center;
+        padding-bottom: 3%;
+}
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+footer {
+    text-align: center;
+    padding: 7% 15%;
+}
+.social-icon {
+    margin: 20px 10px;
+}
+#pricing h2 {
+    color: #000;
+    font-size: 2.8rem;
+    font-weight: lighter;
+}
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+.pricing-column {
+    padding: 3% 2%;
+}
